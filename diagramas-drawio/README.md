@@ -1,7 +1,5 @@
 # Taller · Diagramas con draw.io · RPG Manager
 
-**Estudiante:** Oscar Iván Ramírez  
-**Fecha:** 5 de noviembre de 2026  
 **Herramienta:** draw.io (app.diagrams.net), exportado a SVG con copia del diagrama incluida
 
 Los tres diagramas describen el mismo sistema, el RPG Manager, a tres distancias:
